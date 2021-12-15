@@ -4,7 +4,7 @@
 This repository acts as an offshore backup of the dotfiles and other important configuration files for the tools I use, which I can't even fathom losing. 
 
 ### What tools are covered in this project
-- [Neovim](./neovim/README.md)
+- [Neovim](./nvim/README.md)
 - [Firefox](./firefox/README.md)
 - [tmux](./tmux/README.md)
 - [Starship](./starship/README.md)
