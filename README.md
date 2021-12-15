@@ -8,7 +8,7 @@ This repository acts as an offshore backup of the dotfiles and other important c
 - [Firefox](./firefox/README.md)
 - [tmux](./tmux/README.md)
 - [Starship](./starship/README.md)
-- [zsh](./zsh/README.md)
+- [zsh](./zsh/.zshrc)
 
 ### What software I use daily?
 
