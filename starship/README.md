@@ -1,0 +1,2 @@
+- The configuration file `starship.toml` must be placed in the `~/.config/` directory
+- `eval "$(starship init zsh)"` must be set in the `.zshrc` file

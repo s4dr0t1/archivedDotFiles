@@ -1,0 +1,14 @@
+{
+	"rpc.workspaceElapsedTime": false,
+	"rpc.idleText": "Just messing around",
+	"rpc.detailsIdling": "Just messing around",
+	"rpc.lowerDetailsIdling": "Idling",
+	"rpc.smallImage": "{app_name}",
+	"rpc.lowerDetailsViewing": "Checking something out",
+	"rpc.lowerDetailsEditing": "Working on {file_name}",
+	"rpc.detailsViewing": "{file_name}",
+	"rpc.largeImage": "Editing a fucking {LANG} file",
+	"rpc.showProblems": false,
+	"rpc.lowerDetailsNotFound": "Hacking some shit",
+	"rpc.buttonEnabled": false 
+}
