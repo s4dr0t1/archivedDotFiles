@@ -18,3 +18,6 @@ source $HOME/.config/nvim/config/ctrl-p.vim
 
 "markdown-preview configuration
 source $HOME/.config/nvim/config/markdown.vim
+
+"Tagbar.vim
+source $HOME/.config/nvim/config/tagbar.vim
