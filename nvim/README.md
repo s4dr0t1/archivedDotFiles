@@ -33,7 +33,21 @@ Shortcut | Description
 
 Shortcut | Description
 -|-
+`:! <command>` | Run any shell command within Vim
 `<C-p>` | Toggle b/w the CTRL P plugin
 `<C-b>` | Toggle b/w the file explorer
 P | Paste below the current line
 <SHIFT> + P | Paste one line above
+
+
+### Searching and stuff
+Shortcut | Description
+-|-
+`/string` | `/` stands for forward, the whole command means search forward for a string, regex or whatever
+`?string` | `?` means backward, this command is about searching in backwards order
+n, N | Once we're done searching, we can navigate between the search results using `n` (next) and `N` (previous) respectively
+`*` | Used to search for the thing that's beneath our cursor
+`:/n1,n2s/<query>` | Between lines n1 and n2 (relative), search for `query`
+`:/n1,n2s/<query>/<replaceWith>` | Search for `<query>` between lines n1 and n2, and replace with `<replaceWith>`
+`:%s/<query>/<replaceWith>` | Search for `<query>` in all the document, and replace with `<replaceWith>`, but this only works for the first occurence in every line only
+`:%s/<query>/<replaceWith>/g` | Basically what we did just above, but all the changes in every occurrence (globally)
