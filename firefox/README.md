@@ -9,11 +9,13 @@ Name | Description
 [ Firefox Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers) | Multi-account containers help you keep all the parts of your online life contained
 [LocalCDN](https://www.localcdn.org/) | Similar to Decentraleyes, but better
 [Plasma Integration](https://community.kde.org/Plasma/Browser_Integration) | Makes integration with the KDE plasma offering a rich experience
-[Save To Notion](https://www.notioneverything.com/tools/save-to-notion) | Self-explanatory
 [uBlock Origin](https://ublockorigin.com/) | An efficient ad-blocker
 [Universal Bypass](https://universal-bypass.org/) | Link-shorteners bypass
 [ViolentMonkey](https://violentmonkey.github.io/) | A userscript manager
 XDM Browser Monitor | Extension for the Xtreme Download Manager
+[Cookie Autodelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) | Self explanatory
+[Darkreader](https://darkreader.org/)| Self explanatory
+[Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)| Self explanatory
 
 ---
 
@@ -53,3 +55,6 @@ Enable ECH | <li>`network.dns.use_https_rr_as_altsvc` to **true**</li><li>`netwo
 	- Permissions (Block on all)
 	- Firefox Data Collection (Uncheck all boxes)
 	- HTTPS Only Mode (In all the windows)
+
+### Theming
+I use this custom firefox CSS theme, based on MacOS Monterey. [Link](https://github.com/vinceliuice/WhiteSur-gtk-theme)

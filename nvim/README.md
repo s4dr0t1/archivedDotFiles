@@ -38,6 +38,8 @@ Shortcut | Description
 `<C-b>` | Toggle b/w the file explorer
 P | Paste below the current line
 <SHIFT> + P | Paste one line above
+Tilde ````~ | Convert the current character under the cursor to lowercase/ uppercase````
+"+y | Yank to the system clipboard
 
 
 ### Searching and stuff

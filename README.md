@@ -14,16 +14,16 @@ This repository acts as an offshore backup of the dotfiles and other important c
 
 Category | Names
 -|-
-Web Browsers | <li>Brave <li>Firefox <li>Opera <li>Tor Browser
+Web Browsers | <li>Brave <li>Firefox <li>Opera <li>Tor Browser<li>Chrome<li>Ungoogled Chromium
 Code Editors | Neovim, VSCode, Sublime
 Document& Stuff | <li> Okular (PDF Reader) <li>LibreOffice Suite <li>Flameshot (Screenshot) <li> Calibre (eBook Manager) <li>xMIND (Mindmaps) <li>Obsidian <li>Notion <li>Excalidraw
 VPN | Outline
-Social Stuff | <li>Discord <li>Keybase <li>Microsoft Teams <li>Telegram <li>Mozilla Thunderbird
-Device Interconnection | <li>Deskscreen <li>KDE Connect <li>Teamviewer <li>Remmina <li>Barrier
+Social Stuff | <li>Discord <li>Keybase <li>Microsoft Teams <li>Telegram <li>Mozilla Thunderbird <li>Matrix
+Device Interconnection | <li>Deskscreen <li>KDE Connect <li>Teamviewer <li>Remmina <li>Barrier<li>RustDesk
 Download Manager | Xtreme Download Manager
 OS Management | <li>Stacer <li>Engrampa Archive Manager <li>Kleopatra (PGP Manager) <li>Kwantum Theme Manager <li>Latte Dock
-Multimedia | <li>OpenShot (Video Editor) <li>OBS Studio <li>VLC Media Player<li>Spotify <li>Museeks
-Miscellaneous | <li>VMware Workstation
+Multimedia | <li>OpenShot (Video Editor) <li>OBS Studio <li>VLC Media Player<li>Spotify <li>Museeks <li>Moosync <li>Jellyfin Media Player <li>mpv Media player
+Miscellaneous | <li>VMware Workstation <li>VirtualBox
 
 ### Important Terminal Apps
 
