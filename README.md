@@ -1,4 +1,8 @@
 # dotfiles Project
+
+> **Warning**
+> This repository has been archived, please head to my [repository](https://github.com/s4dr0t1/dotfiles)
+
 > What is this all about?
 
 This repository acts as an offshore backup of the dotfiles and other important configuration files for the tools I use, which I can't even fathom losing. 
