@@ -40,6 +40,7 @@ P | Paste below the current line
 <SHIFT> + P | Paste one line above
 Tilde ````~ | Convert the current character under the cursor to lowercase/ uppercase````
 "+y | Yank to the system clipboard
+<SHIFT> + K | coc.nvim's Hover functionality, if we're doing it over some keyword, it will get us description about it, and otherwise it'll show us the indentation and stuff. And going into the code description, `<CTRL> + W, W`
 
 
 ### Searching and stuff
